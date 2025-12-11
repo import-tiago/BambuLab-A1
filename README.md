@@ -32,6 +32,11 @@ This document repo as a personal knowledge base and future reference for setting
 | Camera | Low Rate Camera (Up to 1080P) |
 
 ## Upgrades and Accessories
+### AMS Lite Numbers Highlight
+
+<p><img src="assets/10.png"></p>
+[Source]([https://www.youtube.com/watch?v=zCa1xiqe8FM](https://makerworld.com/en/models/928502-enveloping-ams-lite-number-covers#profileId-892075))
+
 
 ---
 
