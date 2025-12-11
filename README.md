@@ -45,6 +45,9 @@ Custom 3D-printed handle designed to improve the ergonomics and grip of the Bamb
 
 ![](assets/11.jpg)
 
+**NOTE**
+> This model features a **print pause**. During the pause, the Allen key must be inserted into the slot so it can be enclosed by the rest of the print.
+![](assets/12.jpg)
 
 ---
 
