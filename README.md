@@ -1,4 +1,4 @@
-# Bambu Lab A1 3D Printer Documentation
+# Bambu Lab A1
 
 This document repo as a personal knowledge base and future reference for settings, essential information, collected 3D models, upgrades, and projects related to the Bambu Lab A1 3D Printer.
 
