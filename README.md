@@ -1,14 +1,16 @@
-# Bambu Lab A1
+# Bambu Lab A1 3D Printer Documentation
 
-Compilation of settings, created and remixed 3D models, upgrades, useful information, and relevant concepts for my own use, needs, and future reference.
+This document repo as a personal knowledge base and future reference for settings, essential information, collected 3D models, upgrades, and projects related to the Bambu Lab A1 3D Printer.
 
-<p align="left"><img src="assets/machine.png" alt="Bambu Lab A1 3D Printer with AMS lite attached"></p>
+<p align="center"><img src="assets/machine.png" alt="Bambu Lab A1 3D Printer with AMS lite attached"></p>
 
-## Machine Specs
+## Technical Specifications
+*Source: [Technical Specifications A1](https://bambulab.com/en/a1/tech-specs)*
+
 | Parameter | Value |
-|--|--|
-| Number of toolheads | 1 |
-| Multi-color capability | 4 Colors (via included AMS lite) |
+|:---|:---|
+| Number of Toolheads | 1 |
+| Multi-Color Capability | 4 Colors (via included AMS lite) |
 | Build Volume (W×D×H) | 256 mm × 256 mm × 256 mm |
 | Printing Method | Wi-Fi (Bambu Studio, Handy App) / Micro SD Card |
 | HMI (Interface) | 3.5-inch 320x240 IPS Touch Screen |
@@ -17,7 +19,7 @@ Compilation of settings, created and remixed 3D models, upgrades, useful informa
 | Max Hot End Temperature | 300 °C (All-Metal Hot End) |
 | Max Heated Bed Temperature | 100 °C |
 | Printing Platform | Flexible Steel Plate |
-| **Compatible Build Plates** | **Bambu Textured PEI Plate, Cool Plate, High Temperature Plate** |
+| Compatible Build Plates | Bambu Textured PEI Plate, Cool Plate, High Temperature Plate |
 | Print Accuracy Features | Full-Auto Calibration (Z-Offset, Bed Leveling, Vibration) |
 | Recommended Filament (Ideal) | PLA, PETG, TPU, PVA |
 | Consumable Filament Diameter | 1.75 mm |
@@ -29,4 +31,44 @@ Compilation of settings, created and remixed 3D models, upgrades, useful informa
 | Connectivity | Wi-Fi, Bambu-Bus |
 | Camera | Low Rate Camera (Up to 1080P) |
 
-More information on the manufacturer's official website: [Technical Specifications A1](https://bambulab.com/en/a1/tech-specs)
+## Upgrades and Accessories
+
+---
+
+## Projects & Organizational Systems
+
+### Multiboard
+A free-to-use wall-mounted storage system that uses slotted or perforated panels to hold interchangeable modules. It is **free** but **not open-source**. The design focuses on flexible vertical organization and rapid rearrangement.
+
+* **Official Website:** [http://multiboard.io/](http://multiboard.io/)
+* **Original Creator:** Jonathan (Keep Making)
+* **Introduction Video:** [Video by Jonathan (Keep Making)](https://www.youtube.com/watch?v=zCa1xiqe8FM)
+
+**My Build:**
+
+| ![](assets/1.jpg) | ![](assets/2.jpg) | ![](assets/3.jpg) |
+|:---|:---|:---|
+| ![](assets/4.jpg) | ![](assets/5.jpg) | ![](assets/6.jpg) |
+| ![](assets/7.jpg) | ![](assets/8.jpg) | ![](assets/10.jpg) |
+
+### Gridfinity
+A modular storage system based on a standardized 42×42 mm grid, ensuring compatibility between all modules. It is **free and open-source**. Optimized for dense organization of small items using stackable containers and inserts.
+
+* **Official Website:** [https://gridfinity.xyz/](https://gridfinity.xyz/)
+* **Original Creator:** Zack Freedman
+* **Introduction Video:** [Gridfinity: Your Ultimate Modular Workshop is FREE!](https://www.youtube.com/watch?v=ra_9zU-mnl8&t=275s)
+
+**My Build:**
+
+| ![](assets/1.jpg) | ![](assets/2.jpg) | ![](assets/3.jpg) |
+|:---|:---|:---|
+| ![](assets/4.jpg) | ![](assets/5.jpg) | ![](assets/6.jpg) |
+| ![](assets/7.jpg) | ![](assets/8.jpg) | ![](assets/10.jpg) |
+
+---
+
+## My Original Models
+
+
+## My Remixed Models
+
