@@ -42,7 +42,7 @@ A free-to-use wall-mounted storage system that uses slotted or perforated panels
 
 * **Official Website:** [http://multiboard.io/](http://multiboard.io/)
 * **Original Creator:** Jonathan (Keep Making)
-* **Introduction Video:** [Video by Jonathan (Keep Making)](https://www.youtube.com/watch?v=zCa1xiqe8FM)
+* **Introduction Video:** [The Last 3D Printed Storage System You'll Ever Need : Multiboard](https://www.youtube.com/watch?v=zCa1xiqe8FM)
 
 **My Build:**
 
