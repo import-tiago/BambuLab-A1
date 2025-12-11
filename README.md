@@ -32,10 +32,12 @@ This document repo as a personal knowledge base and future reference for setting
 | Camera | Low Rate Camera (Up to 1080P) |
 
 ## Upgrades and Accessories
-### AMS Lite Numbers Highlight
 
-<p><img src="assets/10.png"></p>
-[Source]([https://www.youtube.com/watch?v=zCa1xiqe8FM](https://makerworld.com/en/models/928502-enveloping-ams-lite-number-covers#profileId-892075))
+### AMS Lite Numbers Highlight
+Custom 3D-printed covers designed to highlight or change the color of the spool slot numbers on the AMS lite for improved visibility and organization.
+* **Model Link:** [Enveloping AMS-lite Number Covers (MakerWorld)](https://makerworld.com/en/models/928502-enveloping-ams-lite-number-covers#profileId-892075)
+
+![](assets/10.jpg)
 
 
 ---
@@ -65,7 +67,7 @@ A modular storage system based on a standardized 42×42 mm grid, ensuring compat
 
 **My Build:**
 
-| ![](assets/10.jpg) | ![](assets/11.jpg) | ![](assets/12.jpg) |
+| ![](assets/11.jpg) | ![](assets/12.jpg) | ![](assets/13.jpg) |
 |:---|:---|:---|
 | ![](assets/13.jpg) | ![](assets/14.jpg) | ![](assets/15.jpg) |
 | ![](assets/16.jpg) | ![](assets/17.jpg) | ![](assets/18.jpg) |
