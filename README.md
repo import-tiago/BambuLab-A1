@@ -73,22 +73,6 @@ Custom guide covers with numbering designed to clearly identify and organize the
 
 # Projects & Organizational Systems
 
-### Multiboard
-A free-to-use wall-mounted storage system that uses slotted or perforated panels to hold interchangeable modules. It is **free** but **not open-source**. The design focuses on flexible vertical organization and rapid rearrangement.
-
-* **Official Website:** [http://multiboard.io/](http://multiboard.io/)
-* **Original Creator:** Jonathan (Keep Making)
-* **Introduction Video:** [The Last 3D Printed Storage System You'll Ever Need : Multiboard](https://www.youtube.com/watch?v=zCa1xiqe8FM)
-
-**My Build:**
-
-| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
-|:---|:---|:---|
-| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
-| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
-
----
-
 ### Gridfinity
 A modular storage system based on a standardized 42×42 mm grid, ensuring compatibility between all modules. It is **free and open-source**. Optimized for dense organization of small items using stackable containers and inserts.
 
@@ -102,6 +86,22 @@ A modular storage system based on a standardized 42×42 mm grid, ensuring compat
 |:---|:---|:---|
 | ![](assets/4.jpg) | ![](assets/5.jpg) | ![](assets/6.jpg) |
 | ![](assets/7.jpg) | ![](assets/8.jpg) | ![](assets/9.jpg) |
+
+---
+
+### Multiboard
+A free-to-use wall-mounted storage system that uses slotted or perforated panels to hold interchangeable modules. It is **free** but **not open-source**. The design focuses on flexible vertical organization and rapid rearrangement.
+
+* **Official Website:** [http://multiboard.io/](http://multiboard.io/)
+* **Original Creator:** Jonathan (Keep Making)
+* **Introduction Video:** [The Last 3D Printed Storage System You'll Ever Need : Multiboard](https://www.youtube.com/watch?v=zCa1xiqe8FM)
+
+**My Build:**
+
+| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
+|:---|:---|:---|
+| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
+| ![](assets/x.jpg) | ![](assets/x.jpg) | ![](assets/x.jpg) |
 
 ---
 
