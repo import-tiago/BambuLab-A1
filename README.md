@@ -49,7 +49,7 @@ A free-to-use wall-mounted storage system that uses slotted or perforated panels
 | ![](assets/1.jpg) | ![](assets/2.jpg) | ![](assets/3.jpg) |
 |:---|:---|:---|
 | ![](assets/4.jpg) | ![](assets/5.jpg) | ![](assets/6.jpg) |
-| ![](assets/7.jpg) | ![](assets/8.jpg) | ![](assets/10.jpg) |
+| ![](assets/7.jpg) | ![](assets/8.jpg) | ![](assets/9.jpg) |
 
 ### Gridfinity
 A modular storage system based on a standardized 42×42 mm grid, ensuring compatibility between all modules. It is **free and open-source**. Optimized for dense organization of small items using stackable containers and inserts.
@@ -60,10 +60,10 @@ A modular storage system based on a standardized 42×42 mm grid, ensuring compat
 
 **My Build:**
 
-| ![](assets/1.jpg) | ![](assets/2.jpg) | ![](assets/3.jpg) |
+| ![](assets/10.jpg) | ![](assets/11.jpg) | ![](assets/12.jpg) |
 |:---|:---|:---|
-| ![](assets/4.jpg) | ![](assets/5.jpg) | ![](assets/6.jpg) |
-| ![](assets/7.jpg) | ![](assets/8.jpg) | ![](assets/10.jpg) |
+| ![](assets/13.jpg) | ![](assets/14.jpg) | ![](assets/15.jpg) |
+| ![](assets/16.jpg) | ![](assets/17.jpg) | ![](assets/18.jpg) |
 
 ---
 
