@@ -2,7 +2,9 @@
 
 This document repo as a personal knowledge base and future reference for settings, essential information, collected 3D models, upgrades, and projects related to the Bambu Lab A1 3D Printer.
 
-<p align="center"><img src="assets/machine.png" alt="Bambu Lab A1 3D Printer with AMS lite attached"></p>
+<p align="center">
+  <img src="assets/machine.png" alt="Bambu Lab A1 3D Printer with AMS lite attached" width="70%">
+</p>
 
 ## Technical Specifications
 *Source: [Technical Specifications A1](https://bambulab.com/en/a1/tech-specs)*
