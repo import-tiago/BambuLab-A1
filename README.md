@@ -57,7 +57,7 @@ Modular and compact toolbox specifically designed for the Bambu Lab A1 printer. 
 
 ![](assets/13.jpg)
 
-### A1 Poop Bucket
+### A1 Waste Bucket
 A waste bucket designed to be attached to the Bambu Lab A1 printer, featuring an additional slot for scraper storage. Helps keep the printing area clean and organized.
 * **Model Link:** [A1 Poop Bucket (MakerWorld)](https://makerworld.com/en/models/879014-a1-poop-bucket-with-scraper-holder#profileId-832688)
 
