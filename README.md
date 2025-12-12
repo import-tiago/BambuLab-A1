@@ -7,7 +7,7 @@ This document repo as a personal knowledge base and future reference for setting
 </p>
 
 ## Technical Specifications
-*Source: [Technical Specifications A1](https://bambulab.com/en/a1/tech-specs)*
+<a href="https://bambulab.com/en/a1/tech-specs" target="_blank">Technical Specifications A1</a>
 
 | Parameter | Value |
 |:---|:---|
