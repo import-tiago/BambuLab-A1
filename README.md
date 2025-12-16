@@ -102,6 +102,8 @@ A modular storage system based on a standardized 42×42 mm grid, ensuring compat
 
 **My Build:**
 
+![](assets/gridfinity/0.jpg)
+
 | ![](assets/gridfinity/1.jpg) | ![](assets/gridfinity/2.jpg) | ![](assets/gridfinity/3.jpg) |
 |:---|:---|:---|
 | ![](assets/gridfinity/4.jpg) | ![](assets/gridfinity/5.jpg) | ![](assets/gridfinity/6.jpg) |
