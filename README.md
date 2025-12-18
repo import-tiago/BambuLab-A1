@@ -1,9 +1,9 @@
-# Bambu Lab A1
+# BambuLab A1
 
-This document repo as a personal knowledge base and future reference for settings, essential information, collected 3D models, upgrades, and projects related to the Bambu Lab A1 3D Printer.
+This document repo as a personal knowledge base and future reference for settings, essential information, collected 3D models, upgrades, and projects related to the BambuLab A1 3D Printer.
 
 <p align="center">
-  <img src="assets/machine.png" alt="Bambu Lab A1 3D Printer with AMS lite attached" width="70%">
+  <img src="assets/machine.png" alt="BambuLab A1 3D Printer with AMS lite attached" width="70%">
 </p>
 
 ## Technical Specifications
@@ -42,7 +42,7 @@ Custom 3D-printed covers designed to highlight or change the color of the spool 
 ![](assets/upgrades/1.jpg)
 
 ### :small_blue_diamond: Allen Key Handle
-Custom 3D-printed handle designed to improve the ergonomics and grip of the Bambu Lab A Series Allen keys. The design is **print-in-place** for immediate use.
+Custom 3D-printed handle designed to improve the ergonomics and grip of the BambuLab A Series Allen keys. The design is **print-in-place** for immediate use.
 * **Model Link:** [Bambulab A Series Allen key (MakerWorld)](https://makerworld.com/en/models/1084171-bambulab-a-series-allen-key-print-in-place#profileId-1076617)
 
 ![](assets/upgrades/2.jpg)
@@ -53,21 +53,21 @@ Custom 3D-printed handle designed to improve the ergonomics and grip of the Bamb
 
 ![](assets/upgrades/3.jpg)
 
-### :small_blue_diamond: Bambu Lab Toolbox
-Modular and compact toolbox specifically designed for the Bambu Lab A1 printer. The design is **print-in-place**, featuring integrated hinged drawers for storing parts and tools.
+### :small_blue_diamond: BambuLab Toolbox
+Modular and compact toolbox specifically designed for the BambuLab A1 printer. The design is **print-in-place**, featuring integrated hinged drawers for storing parts and tools.
 * **Model Link:** [A1 Toolbox (MakerWorld)](https://makerworld.com/en/models/639173-a1-toolbox-print-in-place#profileId-860527)
 
 ![](assets/upgrades/4.jpg)
 
 ### :small_blue_diamond: A1 Waste Bucket
-A waste bucket designed to be attached to the Bambu Lab A1 printer, featuring an additional slot for scraper storage. Helps keep the printing area clean and organized.
+A waste bucket designed to be attached to the BambuLab A1 printer, featuring an additional slot for scraper storage. Helps keep the printing area clean and organized.
 * **Model Link:** [A1 Poop Bucket (MakerWorld)](https://makerworld.com/en/models/879014-a1-poop-bucket-with-scraper-holder#profileId-832688)
 
 ![](assets/upgrades/5.jpg)
 
-### :small_blue_diamond: Bambu Lab Bed Scraper
+### :small_blue_diamond: BambuLab Bed Scraper
 A redesigned, custom bed scraper available in two versions (flat or angled) to efficiently remove prints from the build plate while improving grip and handling.
-* **Model Link:** [Bambu Lab Bed Scraper (MakerWorld)](https://makerworld.com/en/models/914848-new-bambu-lab-bed-scraper-two-versions#profileId-876358)
+* **Model Link:** [BambuLab Bed Scraper (MakerWorld)](https://makerworld.com/en/models/914848-new-bambu-lab-bed-scraper-two-versions#profileId-876358)
 
 ![](assets/upgrades/6.jpg)
 
